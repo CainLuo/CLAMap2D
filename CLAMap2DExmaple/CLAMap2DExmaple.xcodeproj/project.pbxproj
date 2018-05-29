@@ -130,8 +130,8 @@
 			isa = PBXGroup;
 			children = (
 				BFE2F71A20BD4B7600F22E00 /* CLAMap2D.h */,
-				BFE2F71B20BD4B7600F22E00 /* ViewModels */,
 				BFE2F72220BD4B7600F22E00 /* Controller */,
+				BFE2F71B20BD4B7600F22E00 /* ViewModels */,
 			);
 			path = CLAMapViewController;
 			sourceTree = "<group>";
@@ -139,8 +139,8 @@
 		BFE2F71B20BD4B7600F22E00 /* ViewModels */ = {
 			isa = PBXGroup;
 			children = (
-				BFE2F71C20BD4B7600F22E00 /* CLAMapViewModel */,
 				BFE2F71F20BD4B7600F22E00 /* CLAMapDelegate */,
+				BFE2F71C20BD4B7600F22E00 /* CLAMapViewModel */,
 			);
 			path = ViewModels;
 			sourceTree = "<group>";
@@ -157,8 +157,8 @@
 		BFE2F71F20BD4B7600F22E00 /* CLAMapDelegate */ = {
 			isa = PBXGroup;
 			children = (
-				BFE2F72020BD4B7600F22E00 /* CLAMapDelegate.m */,
 				BFE2F72120BD4B7600F22E00 /* CLAMapDelegate.h */,
+				BFE2F72020BD4B7600F22E00 /* CLAMapDelegate.m */,
 			);
 			path = CLAMapDelegate;
 			sourceTree = "<group>";
@@ -166,8 +166,8 @@
 		BFE2F72220BD4B7600F22E00 /* Controller */ = {
 			isa = PBXGroup;
 			children = (
-				BFE2F72320BD4B7600F22E00 /* CLAMapViewController.m */,
 				BFE2F72420BD4B7600F22E00 /* CLAMapViewController.h */,
+				BFE2F72320BD4B7600F22E00 /* CLAMapViewController.m */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
