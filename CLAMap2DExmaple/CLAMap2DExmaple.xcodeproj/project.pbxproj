@@ -89,7 +89,7 @@
 			isa = PBXGroup;
 			children = (
 				BFE2F71620BD4AE300F22E00 /* AppDelegate */,
-				BFE2F71820BD4B7600F22E00 /* CLAMap */,
+				BFE2F71820BD4B7600F22E00 /* CLAMap2D */,
 				BFE2F72820BD4B8B00F22E00 /* Module */,
 				BFE2F71420BD4A9100F22E00 /* Resource */,
 			);
@@ -117,13 +117,13 @@
 			path = AppDelegate;
 			sourceTree = "<group>";
 		};
-		BFE2F71820BD4B7600F22E00 /* CLAMap */ = {
+		BFE2F71820BD4B7600F22E00 /* CLAMap2D */ = {
 			isa = PBXGroup;
 			children = (
 				BFE2F71920BD4B7600F22E00 /* CLAMapViewController */,
 			);
-			name = CLAMap;
-			path = ../../CLAMap;
+			name = CLAMap2D;
+			path = ../../CLAMap2D;
 			sourceTree = "<group>";
 		};
 		BFE2F71920BD4B7600F22E00 /* CLAMapViewController */ = {
