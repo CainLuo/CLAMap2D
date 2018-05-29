@@ -1,0 +1,36 @@
+PODS:
+  - AMap2DMap (5.6.0):
+    - AMapFoundation (~> 1.4)
+  - AMapFoundation (1.5.2)
+  - CLFoundation (1.7.0)
+  - CLUIKit (2.1.0):
+    - CLFoundation
+    - Masonry
+    - MJRefresh
+  - Masonry (1.1.0)
+  - MJRefresh (3.1.15.3)
+
+DEPENDENCIES:
+  - AMap2DMap
+  - CLUIKit
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AMap2DMap
+    - AMapFoundation
+    - CLFoundation
+    - CLUIKit
+    - Masonry
+    - MJRefresh
+
+SPEC CHECKSUMS:
+  AMap2DMap: cf0bfd6ae97951b55cc061903b814f924ba6c221
+  AMapFoundation: 46b194013a3b06e0e82e8963108ceb972d4200b8
+  CLFoundation: 6e97a2fb51d31537f31cf37a1059d09c15c2115a
+  CLUIKit: 138fe6643251a653decb517160e292eb65e8efc6
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MJRefresh: b48380ae2b927b46c4ef000de9adb8dc748e1df7
+
+PODFILE CHECKSUM: 946e0f98f8dc5d4052a4f9cb5deb72ca588381f3
+
+COCOAPODS: 1.5.3
